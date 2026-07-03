@@ -1,0 +1,30 @@
+body{
+    margin:0;
+    font-family:Arial, sans-serif;
+    background:#041225;
+    color:white;
+}
+.hero{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-between;
+    align-items:center;
+    padding:40px;
+}
+.content{
+    max-width:600px;
+}
+h1{
+    color:#d4a24c;
+}
+.photo img{
+    width:350px;
+    max-width:100%;
+    border-radius:20px;
+}
+.contacto{
+    padding:40px;
+}
+.contacto img{
+    margin-top:20px;
+}
