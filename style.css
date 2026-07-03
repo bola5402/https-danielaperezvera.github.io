@@ -1,7 +1,0 @@
-
-body{font-family:Arial,sans-serif;background:#07101f;color:white;margin:0}
-.hero{display:flex;justify-content:space-between;align-items:center;padding:40px}
-.hero img{max-width:350px;border-radius:20px}
-.btn{padding:12px 20px;background:#c59a4c;color:white;text-decoration:none;border-radius:8px;margin-right:10px}
-.secondary{background:#444}
-.contacto,section{padding:30px}
